@@ -51,7 +51,7 @@ Scikit-learn (ML Models & Metrics)
 XGBoost (Boosted Trees Model)
 
 ## folder structure
-
+```
 YouTube-Trending-ML/
 │── app.py # Main Streamlit app
 │── requirements.txt # Dependencies list
@@ -64,7 +64,7 @@ YouTube-Trending-ML/
 │ ├── preprocessing.py # Data cleaning & feature engineering
 │ ├── model.py # Model training functions
 │ └── evaluate.py # Evaluation metrics & plots
-
+```
 ## Installation
 
 1. Clone this repository:
